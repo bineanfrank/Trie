@@ -310,4 +310,3 @@ TrieNode lookup(String s, int pos) {
 #### 测试结果截图如下：
 ![alt text](https://github.com/Harlan1994/Trie/blob/master/imgs/test.png "How it looks.")
 
-### 代码已经上传至github：https://github.com/Harlan1994/Trie
