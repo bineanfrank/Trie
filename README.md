@@ -7,12 +7,10 @@ Trie is a data structure wide;ly used in statistics and some other occasions.
 
 #### 本文只是一篇笔记类的文章，所以不存在什么抄袭之类的。
 #### 以下为我研究时参考过的链接(有很多，这里我只列出我记得的)：
-```
-[Trie(字典树)的应用——查找联系人](http://www.jianshu.com/p/df8fd4de55d5)
-[trie树](http://www.jianshu.com/p/8524281c220a)
-[Trie树：应用于统计和排序](http://blog.csdn.net/hguisu/article/details/8131559)
-[牛人源码，研究代码来源](https://github.com/brianfromoregon/trie)
-```
+#### [Trie(字典树)的应用——查找联系人](http://www.jianshu.com/p/df8fd4de55d5)
+#### [trie树](http://www.jianshu.com/p/8524281c220a)
+#### [Trie树：应用于统计和排序](http://blog.csdn.net/hguisu/article/details/8131559)
+#### [牛人源码，研究代码来源](https://github.com/brianfromoregon/trie)
 
 # 1、字典树的概念
 ```
